@@ -1,0 +1,6 @@
+.env
+client_secret.json
+desired_subs.tsv
+existing_subs.tsv
+completed_subs.tsv
+__pycache__
